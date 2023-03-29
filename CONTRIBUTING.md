@@ -1,11 +1,11 @@
 # Contributing Guidelines
-
+/workspaces/ansible-role-nginx-management-suite/.github
 The following is a set of guidelines for contributing to the ansible_role_nginx_management_suite. We really appreciate that you are considering contributing!
-
+/workspaces/ansible-role-nginx-management-suite/defaults
 #### Table Of Contents
-
+/workspaces/ansible-role-nginx-management-suite/.github/ISSUE_TEMPLATE
 [Getting Started](#getting-started)
-
+/workspaces/ansible-role-nginx-management-suite/.github/workflows
 [Contributing](#contributing)
 
 [Code Guidelines](#code-guidelines)
